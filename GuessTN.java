@@ -18,6 +18,7 @@ public class GuessTN {
 
         System.out.println("*****************************************");
         System.out.println("### Welcome to the Precision Guesse! ###");
+        System.out.println("####******* by Harish Gautham *******####");
         System.out.println("*****************************************");
 
         while (true) {
