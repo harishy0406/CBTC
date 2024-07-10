@@ -105,12 +105,12 @@ A comprehensive system to automate library functionalities.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/CIPHERBYTE-Java-Internship
+    git clone https://github.com/harishy0406/CBTC
     ```
 
 2. **Navigate to the desired project folder:**
     ```bash
-    cd CIPHERBYTE-Java-Internship/Task1_GuessTheNumber
+    cd CBTC
     ```
 
 3. **Compile and run the Java project:**
