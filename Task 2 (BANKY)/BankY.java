@@ -170,7 +170,7 @@ public class BankY {
             System.out.print("Enter amount to withdraw: ");
             double amount = sc.nextDouble();
             acc.withdraw(amount, pin);
-            saveAccounts(); // Save after successful transaction
+            saveAccounts();
         } else {
             System.out.println("Account not found.");
         }
@@ -192,7 +192,7 @@ public class BankY {
                 System.out.print("Enter amount to transfer: ");
                 double amount = sc.nextDouble();
                 fromAcc.transfer(toAcc, amount, pin);
-                saveAccounts(); // Save after successful transaction
+                saveAccounts();
             } else {
                 System.out.println("Recipient's account not found.");
             }
