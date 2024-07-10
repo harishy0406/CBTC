@@ -17,6 +17,11 @@
 
 ## Snapshots 📸
 
+
+### Working:
+![image](https://github.com/harishy0406/CBTC/blob/main/TASK1.gif)
+
+
 ### Game Start:
 
 ![image](https://github.com/harishy0406/CBTC/assets/142865295/d3b27a27-36eb-4fd8-a8a0-12ebcf160f58)
