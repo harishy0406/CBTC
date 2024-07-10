@@ -72,7 +72,7 @@ An online examination system with various functionalities to support exam-taking
 
 #### Snapshots 📸
 
-
+![image](https://github.com/harishy0406/CBTC/blob/main/TASK3.gif)
 
 ### Task 4: Digital Library Management 📚
 
