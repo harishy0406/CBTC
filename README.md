@@ -50,7 +50,7 @@ A simulation of a basic banking system allowing users to create accounts, deposi
 
 #### Snapshots 📸
 
-
+![image](https://github.com/harishy0406/CBTC/blob/main/TASK2.gif)
 
 ### Task 3: Online Examination 📝
 
