@@ -99,7 +99,7 @@ A comprehensive system to automate library functionalities.
 
 #### Snapshots 📸
 
-
+![image](https://github.com/harishy0406/CBTC/blob/main/TASK4.gif)
 
 ## Installation and Usage 🚀
 
