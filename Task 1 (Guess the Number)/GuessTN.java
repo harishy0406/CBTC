@@ -17,7 +17,7 @@ public class GuessTN {
         List<Player> leaderboard = new ArrayList<>();
 
         System.out.println("*****************************************");
-        System.out.println("### Welcome to the Precision Guesse! ###");
+        System.out.println("### Welcome to the Precision Guess! ###");
         System.out.println("####******* by Harish Gautham *******####");
         System.out.println("*****************************************");
 
