@@ -93,7 +93,7 @@ A comprehensive system to automate library functionalities.
 
 #### Technology Used 💻
 
-- Java
+- Java , Java Packages
 - Object-Oriented Programming
 - File handling 
 
